@@ -1,1 +1,1 @@
-# AdventureWorks-End-to-End-Business-Intelligence-with-Power-BI
+# End-to-End-Business-Intelligence-with-Power-BI
